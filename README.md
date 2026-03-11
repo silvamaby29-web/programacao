@@ -16,7 +16,7 @@ Python HTML CSS
 📊 Ferramentas Digitais
 🚀 Projetos
 
-Aqui estão alguns projetos que desenvolvi durante meus estudos:
+Aqui estão alguns projetos que desenvolvi durante meus estudos: 
 
 📌 Projeto 1 – [Projeto]
 📌 Projeto 2 – [Projeto]
